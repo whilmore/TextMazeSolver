@@ -6,7 +6,8 @@ Proper usage example: "python search.py -method breadth Maze2.txt "
 
 empty maze
 
-![image](https://user-images.githubusercontent.com/74994503/120119322-14d08680-c165-11eb-8ac8-3391b12c2f25.png)
+![image](https://user-images.githubusercontent.com/74994503/120119389-7db7fe80-c165-11eb-8cef-c78393faa699.png)
+
 
 solution
 
